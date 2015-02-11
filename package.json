@@ -1,0 +1,22 @@
+{
+  "name": "context-frontend",
+  "version": "1.0.0",
+  "description": "Devops build tool",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "*",
+    "easy-sqs": "*"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/con-text/build-complete-listener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/con-text/build-complete-listener/issues"
+  },
+  "homepage": "https://github.com/con-text/build-complete-listener"
+}
